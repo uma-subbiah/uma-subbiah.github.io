@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "About"
+    url: https://thegoldenaurora.github.io/umasubbiah/about/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Resume"
+    url: https://thegoldenaurora.github.io/umasubbiah/resume/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Experience"
+    url: https://thegoldenaurora.github.io/umasubbiah/experience/
+
+  - title: "Publications & Conferences"
+    url: https://thegoldenaurora.github.io/umasubbiah/publications/
+
+  - title: "Projects"
+    url: https://thegoldenaurora.github.io/umasubbiah/projects/
+
+  - title: "Societies & Memberships"
+    url: https://thegoldenaurora.github.io/umasubbiah/societies/
+
+  - title: "Extracurricular Activities"
+    url: https://thegoldenaurora.github.io/umasubbiah/eca/
