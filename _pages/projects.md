@@ -29,7 +29,6 @@ _June '20_
 <br>
 
 Case Based Reasoning is an Artificial Intelligence method that shows which of the known situations is the most similar to a new (previously unseen) case. By way of a literature survey, I've created a prototype of a CBR system to determine which previously admitted patient is most similar to an incoming patient using various medical readings. Using this, we can determine the probability of how severely COVID will affect the incoming patient. For instance, if the patient with the most similar case died of COVID, then we know that the incoming patient is at high risk. Limited resources in a hospital can therefore be allocated to the most severe cases, in times of resource suffocation/lack of adequate resources.
-A Prototype of a Case Based Reasoning System that may be useful to determine allocation of resources during the COVID pandemic
 
 [Link to the project](https://github.com/uma-subbiah/CBR-Prototype-COVID)
 
