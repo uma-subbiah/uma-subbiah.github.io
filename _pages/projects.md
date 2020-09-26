@@ -39,8 +39,13 @@ _January '20 - July '20_
 <br>
 
 *Abstract:* The use of deep learning techniques to diagnose medical disorders has gained increasing popularity in recent times. The unbeatable accuracy of deep learning algorithms often surpasses the performance of human doctors in the diagnosis of diseases like cancer. In line with this trend, this paper proposes a novel architecture aimed at classifying sections of lymph node scans. Analysis of methods to enhance the existing architecture and produce an algorithm that can be used to identify tumor cells is discussed. An enhancing combination of kernel initialization and image preprocessing such as stain channel extraction, color inversion, and hybridization of these has been obtained by contextual and empirical analysis. Incorporating the successful enhancement features with a ResNet-50 leads to a new strategy to identify the presence of metastatic cancer in lymph node patch images. This system can be used to aid human pathologists or independently (with human supervision) for the diagnosis of metastatic cancer from lymph node images.
+
 <br>
+
 This project draws heavily on my learnings from deeplearning.ai's Deep Learning Specialisation, which I completed in Jan 2020.
+
+<br>
+
 [Link to the paper](https://ieeexplore.ieee.org/abstract/document/9183250)
 
 <hr>
