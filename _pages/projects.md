@@ -104,7 +104,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 
 # Other Coursework projects (on Github)
 <ul>
-<li> 15CSE411 - Net Centric Programming – Worked on a team of 4 to develop a platform to enable easy management of courses, from assignments and quizzes to grading and monitoring attendance.
+<li> 15CSE376 - Net Centric Programming – Worked on a team of 4 to develop a platform to enable easy management of courses, from assignments and quizzes to grading and monitoring attendance.
 <ul>
 <li> Date: June '19 - October '19'</li>
 <li> Tools used: Javascript, HTML, CSS, Java</li>
@@ -112,7 +112,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <li> Grade Obtained: 'O' (=10/10) </li>
 </ul>
 
-<li> 15CSE411 - Software Engineering. – Worked on a team of 5 to develop an event management portal that eases the process of planning and hosting events.
+<li> 15CSE313 - Software Engineering. – Worked on a team of 5 to develop an event management portal that eases the process of planning and hosting events.
 <ul>
 <li> Date: Dec '18 - May '19</li>
 <li> Tools used: NodeJS, Web Development, JIRA, Selenium, Testing tools</li>
@@ -120,7 +120,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <li> Grade Obtained: 'A+' (=9/10) </li>
 </ul>
 
-<li> 15CSE411 - Database Management System – Developed a portal to help ease the rising unemployment rates in India (Team of 4).
+<li> 15CSE302 - Database Management System – Developed a portal to help ease the rising unemployment rates in India (Team of 4).
 <ul>
 <li> Date: June '18 - Nov '18</li>
 <li> Tools used: SQL, Database design using ER diagrams, EER, Normalisation, Java Database Connectivity</li>
