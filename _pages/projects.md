@@ -116,7 +116,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <ul>
 <li> Date: Dec '18 - May '19</li>
 <li> Tools used: NodeJS, Web Development, JIRA, Selenium, Testing tools</li>
-<li> (<a href='https://github.com/uma-subbiah/EventIt'>[Link]</a> </li>
+<li> <a href='https://github.com/uma-subbiah/EventIt'>[Link]</a> </li>
 <li> Grade Obtained: 'A+' (=9/10) </li>
 </ul>
 
@@ -124,7 +124,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <ul>
 <li> Date: June '18 - Nov '18</li>
 <li> Tools used: SQL, Database design using ER diagrams, EER, Normalisation, Java Database Connectivity</li>
-<li> (<a href='https://github.com/uma-subbiah/Mployd'>[Link]</a> </li>
+<li> <a href='https://github.com/uma-subbiah/Mployd'>[Link]</a> </li>
 <li> Grade Obtained: 'A+' (=9/10) </li>
 </ul>
 <hr>
