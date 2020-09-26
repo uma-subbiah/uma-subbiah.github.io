@@ -6,12 +6,13 @@ author_profile: true
 redirect_from:
   - /projects
 ---
-<hr>
+<!-- <hr>
 
 I maintain a portfolio of all the computer science work I do [here](https://thegoldencode.wordpress.com)
 <br>
-I've selected the most important projects and listed them below:
+I've selected the most important projects and listed them below: -->
 
+<hr>
 
 ##  using Tensorflow.js
 _September '20_
