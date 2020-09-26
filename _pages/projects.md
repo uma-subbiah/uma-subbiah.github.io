@@ -8,7 +8,7 @@ redirect_from:
 ---
 <hr>
 
-I maintain a portfolio of all the computer science work I do here: [](https://thegoldencode.wordpress.com)
+I maintain a portfolio of all the computer science work I do [here: ](https://thegoldencode.wordpress.com)
 I've selected the most important projects and listed them below:
 
 
