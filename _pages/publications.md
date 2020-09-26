@@ -56,7 +56,7 @@ Citation: **Subbiah, U.** and Padmavathi, S., 2020, February. Analysis of Deep L
 
 <hr>
 
-## 'Soft Computing Approach to Determine Students' Level of Comprehension Using a Mamdani Fuzzy System'
+## Soft Computing Approach to Determine Students' Level of Comprehension Using a Mamdani Fuzzy System
 _May '20, Springer_
 <br>
 **Authors: Uma Subbiah, Dr. G Jeyakumar**
