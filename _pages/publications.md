@@ -91,6 +91,7 @@ _Presented: Aug '20, IEEE_
 Presented At: International Conference on Smart Systems and Inventive Technology (ICSSIT 2020), IEEE
 <br>
 **To be published**
+<br>
 *My research findings and observations during my time as an Undergraduate Student Researcher in the Smartspaces Lab at Amrita Vishwa Vidyapeetham was selected for publication*
 
 <hr>
@@ -103,6 +104,7 @@ _Scheduled Presentation: Dec '20, ACM India_
 To be Presented At: Sixth International Symposium on Intelligent Systems Technologies and Applications (ISTA'20).
 <br>
 **To be published**
+<br>
 *This is a coursework project for the course 15CSE480 - Internet of Things - that was selected for expansion and presentation*
 
 <hr>
