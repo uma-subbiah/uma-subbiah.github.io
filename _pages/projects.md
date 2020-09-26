@@ -108,10 +108,13 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 * Tools used:
 * Link:
 * Grade Obtained:
+
 <ul>
-<li> hi
-<li> ji
+<li> hi </li>
+
+<li> ji </li>
 </ul>
+
 <li> 15CSE411 - Software Engineering. – Worked on a team of 5 to develop an event management portal that eases the process of planning and hosting events.
 * Date:
 * Tools used:
