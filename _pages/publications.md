@@ -27,16 +27,20 @@ Citation: **Subbiah, U.** , Ramachandran, M. and Mahmood, Z., 2020. Software Eng
 
 # Most Relevant Publications -> Conference Proceedings
 
-## Analysis of Deep Learning Architecture for Non- Uniformly Illuminated Images
-_Presented: Jul '20, IEEE_
+## An Enhanced Deep Learning Architecture for the Classification of Cancerous Lymph Node Images
+_September '20, IEEE_
 <br>
 **Authors: Uma Subbiah, Rahul Vinod Kumar, Shruti Ajithkumar, Aathith Bhalaje, Dr. S Padmavathi**
 <br>
 Presented At: 2nd International Conference on Inventive Research in Computing Applications (ICIRCA). IEEE
 <br>
-**To be published**
+<br>
+Citation: **Subbiah, U.**, Kumar, R. V., Panicker, S. A., Bhalaje, R. A., & Padmavathi, S. (2020, July). An Enhanced Deep Learning Architecture for the Classification of Cancerous Lymph Node Images. In 2020 Second International Conference on Inventive Research in Computing Applications (ICIRCA) (pp. 381-386). IEEE.
+
+[Link to the publication](https://ieeexplore.ieee.org/abstract/document/9183250)
 
 <hr>
+
 
 ## Analysis of Deep Learning Architecture for Non- Uniformly Illuminated Images
 _Jun '20, IEEE_
