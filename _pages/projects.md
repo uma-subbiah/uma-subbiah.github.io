@@ -8,7 +8,8 @@ redirect_from:
 ---
 <hr>
 
-I maintain a portfolio of all the computer science work I do [here: ](https://thegoldencode.wordpress.com)
+I maintain a portfolio of all the computer science work I do [here](https://thegoldencode.wordpress.com)
+<br>
 I've selected the most important projects and listed them below:
 
 
@@ -28,7 +29,7 @@ _January '20 - July '20_
 
 *Abstract:* The use of deep learning techniques to diagnose medical disorders has gained increasing popularity in recent times. The unbeatable accuracy of deep learning algorithms often surpasses the performance of human doctors in the diagnosis of diseases like cancer. In line with this trend, this paper proposes a novel architecture aimed at classifying sections of lymph node scans. Analysis of methods to enhance the existing architecture and produce an algorithm that can be used to identify tumor cells is discussed. An enhancing combination of kernel initialization and image preprocessing such as stain channel extraction, color inversion, and hybridization of these has been obtained by contextual and empirical analysis. Incorporating the successful enhancement features with a ResNet-50 leads to a new strategy to identify the presence of metastatic cancer in lymph node patch images. This system can be used to aid human pathologists or independently (with human supervision) for the diagnosis of metastatic cancer from lymph node images.
 
-Link to the paper: https://ieeexplore.ieee.org/abstract/document/9183250
+[Link to the paper](https://ieeexplore.ieee.org/abstract/document/9183250)
 
 <hr>
 
@@ -39,7 +40,7 @@ _August '19 - December '20_
 
 *Abstract:* The use of deep learning to hone image processing techniques has become increasingly popular. Following the success of Convolutional Neural Networks (CNNs) for image classification, they have been tested for various applications. By training CNNs on a dataset with ground truth (light) images and the corresponding darkened version of the images, neural networks can be used for enhancement. This must account for the non-uniform illumination seen in night-time images. A novel method of training a neural network to enhance non-uniformly illuminated images is proposed. Further, the visualization of convolutional features extracted at each layer of the neural network is discussed, to understand which parts of an image helps the neural network identify the object, thereby enhancing its recognition power. The potential application of this system lies in detecting animals in the non-uniformly lit surveillance video, useful to settlements near forest regions, where wild animals pose a threat to the living areas.
 
-Link to the paper: https://ieeexplore.ieee.org/abstract/document/9112434
+[Link to the paper](https://ieeexplore.ieee.org/abstract/document/9112434)
 
 <hr>
 
@@ -49,7 +50,7 @@ _August '19_
 <br>
 I used the skills I gained from IBM's Data Science Professional Certificate program to design a system that predicts the ideal location of constructing a new hospital in London using data science techniques. This project employs data collection (web scraping), data cleaning, data visualisation and K-NN prediction techniques. I've written a post on this, which can be found here: https://thegoldencode.wordpress.com/2019/08/31/finding-the-optimal-location-to-establish-a-new-hospital-in-london/
 
-Link to the Github repo: https://github.com/uma-subbiah/Coursera_Capstone/tree/master/Week%205/Final%20Project
+[Link to the Github repo](https://github.com/uma-subbiah/Coursera_Capstone/tree/master/Week%205/Final%20Project)
 
 <hr>
 
@@ -59,7 +60,7 @@ _May '19_
 <br>
 Inspired by the scope of fuzzy logic and its ability to predict the outcome of vague, uncertain scenarios, I worked on the use of fuzzy logic to predict heart disease. I used three variables - age, blood pressure and cholestrol levels. These variables were obtained from a literature review of medical articles, but can easily be modified/augmented, depending on the requirements of the medial professional using the system. The output is the level of risk of suffering a heart attack.
 
-Link to the project: https://github.com/uma-subbiah/Computational-Intelligence---Fuzzy-Systems/blob/master/Fuzzy_System_for_Determination_of_Risk_of_Heart_Attack-3TestCases.ipynb
+[Link to the project](https://github.com/uma-subbiah/Computational-Intelligence---Fuzzy-Systems/blob/master/Fuzzy_System_for_Determination_of_Risk_of_Heart_Attack-3TestCases.ipynb)
 
 <hr>
 
@@ -68,7 +69,7 @@ _April '19_
 <br>
 This month I've been working on the implementation of neural network algorithms, either from their original papers or from simplified articles. In this endeavour, I've implemented activation functions, the perceptron learning algorithm and boolean gates using single / mulit- layer neural network structures.
 
-Link to the project: https://github.com/uma-subbiah/Computational-Intelligence---Neural-Networks
+[Link to the project](https://github.com/uma-subbiah/Computational-Intelligence---Neural-Networks)
 
 <hr>
 
@@ -79,7 +80,7 @@ _Feb ’19_
 <br>
 Worked in a team of 2 members to refine and outperform the existing neural networks for predicting the presence or absence of breast cancer (IDC) in histology images. Achieved an accuracy of 95.28% using a combination of convolutional layers obtained by trial and error. While I can't share the code, I've linked the project page on my portfolio below:
 
-Link to the project: https://thegoldencode.wordpress.com/2018/06/04/predicting-invasive-duct-carcinoma-using-cnns/
+[Link to the project](https://thegoldencode.wordpress.com/2018/06/04/predicting-invasive-duct-carcinoma-using-cnns/)
 
 <hr>
 
@@ -88,7 +89,7 @@ _Jan '19_
 <br>
 Tamil is one of the oldest languages in the world. I built an extendable prototype neural network that was able to classify 5 characters in Tamil. Achieved an accuracy of > 98%. I used a Tamil character dataset that has been generously open-sourced for the development of technology in Tamil by the University of Jaffna.
 
-Link to the project on my portfolio: https://thegoldencode.wordpress.com/2018/09/19/tamil-character-recognition-using-convolutional-neural-networks/
+[Link to the project on my portfolio](https://thegoldencode.wordpress.com/2018/09/19/tamil-character-recognition-using-convolutional-neural-networks/)
 
 <hr>
 
@@ -107,7 +108,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <ul>
 <li> Date: June '19 - October '19'</li>
 <li> Tools used: Javascript, HTML, CSS, Java</li>
-<li> Link: https://github.com/ShriRamaJeyam/NCP3 </li>
+<li> [Link](https://github.com/ShriRamaJeyam/NCP3) </li>
 <li> Grade Obtained: 'O' (=10/10) </li>
 </ul>
 
@@ -115,7 +116,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <ul>
 <li> Date: Dec '18 - May '19</li>
 <li> Tools used: NodeJS, Web Development, JIRA, Selenium, Testing tools</li>
-<li> Link: https://github.com/uma-subbiah/EventIt </li>
+<li> [Link](https://github.com/uma-subbiah/EventIt) </li>
 <li> Grade Obtained: 'A+' (=9/10) </li>
 </ul>
 
@@ -123,7 +124,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <ul>
 <li> Date: June '18 - Nov '18</li>
 <li> Tools used: SQL, Database design using ER diagrams, EER, Normalisation, Java Database Connectivity</li>
-<li> Link: https://github.com/uma-subbiah/Mployd </li>
+<li> [Link](https://github.com/uma-subbiah/Mployd) </li>
 <li> Grade Obtained: 'A+' (=9/10) </li>
 </ul>
 <hr>
