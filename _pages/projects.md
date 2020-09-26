@@ -108,7 +108,7 @@ Worked on the PHP backend of a University Lab Management System aimed to integra
 <ul>
 <li> Date: June '19 - October '19'</li>
 <li> Tools used: Javascript, HTML, CSS, Java</li>
-<li> [Link](https://github.com/ShriRamaJeyam/NCP3) </li>
+<li> <a href='https://github.com/ShriRamaJeyam/NCP3'>[Link]</a> </li>
 <li> Grade Obtained: 'O' (=10/10) </li>
 </ul>
 
