@@ -25,7 +25,7 @@ Citation: **Subbiah, U.** , Ramachandran, M. and Mahmood, Z., 2020. Software Eng
 
 <hr>
 
-# Conference Proceedings
+# Most Relevant Publications -> Conference Proceedings
 
 ## Analysis of Deep Learning Architecture for Non- Uniformly Illuminated Images
 _Presented: Jul '20, IEEE_
@@ -53,7 +53,7 @@ Citation: **Subbiah, U.** and Padmavathi, S., 2020, February. Analysis of Deep L
 <hr>
 
 ## 'Soft Computing Approach to Determine Students' Level of Comprehension Using a Mamdani Fuzzy System'
-_May '20_
+_May '20, Springer_
 <br>
 **Authors: Uma Subbiah, Dr. G Jeyakumar**
 <br>
@@ -69,7 +69,7 @@ Citation: **Subbiah, U.** and Jeyakumar, G., 2020. Soft Computing Approach to De
 ## Software Engineering Approach to Bug Prediction Models using Machine Learning as a Service (MLaaS)
 _Jan '19, Scitepress_
 <br>
-**Authors: Uma Subbiah, Dr. Muthu Ramachandra, Dr. Zaigham Mahmood**
+**Authors: Uma Subbiah, Dr. Muthu Ramachandran, Dr. Zaigham Mahmood**
 <br>
 Presented At: 13th International Conference on Software Technology (ICSOFT 2018), Portugal
 <br>
@@ -77,5 +77,32 @@ Presented At: 13th International Conference on Software Technology (ICSOFT 2018)
 Citation: **Subbiah, U.** Ramachandran, M. and Mahmood, Z., 2019, January. Software engineering approach to bug prediction models using machine learning as a service (MLaaS), in ICSOFT 2018-Proceedings of the 13th Intl. Conference on Software Technologies (pp. 879-887).
 
 [Link to the publication](https://www.scitepress.org/Papers/2018/69263/index.html)
+
+<hr>
+
+
+# Other Publications -> Conference Proceedings
+
+## An Extensive Study and Comparison of the Various Approaches to Object Detection using Deep Learning
+_Presented: Aug '20, IEEE_
+<br>
+**Authors: Uma Subbiah, D. Kavin Kumar, Senthil Kumar Thangavel, Latha Parameswaran**
+<br>
+Presented At: International Conference on Smart Systems and Inventive Technology (ICSSIT 2020), IEEE
+<br>
+**To be published**
+*My research findings and observations during my time as an Undergraduate Student Researcher in the Smartspaces Lab at Amrita Vishwa Vidyapeetham was selected for publication*
+
+<hr>
+
+## Case-Based Expert System for Smart Air Conditioner with Adaptive Thermoregulatory Comfort     
+_Scheduled Presentation: Dec '20, ACM India_
+<br>
+**Authors: Nalinadevi Kadiresan, Akshaya Sundaram, Hamsini Ravishankar, Uma Subbiah and R Karthika**
+<br>
+To be Presented At: Sixth International Symposium on Intelligent Systems Technologies and Applications (ISTA'20).
+<br>
+**To be published**
+*This is a coursework project for the course 15CSE480 - Internet of Things - that was selected for expansion and presentation*
 
 <hr>
