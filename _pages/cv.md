@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please click [here](https://thegoldenaurora.github.io/umasubbiah/files/UmaSubbiahResume.pdf) to view my Resume.
+Please click [here](https://uma-subbiah.github.io/files/Resume.pdf) to view my Resume.
