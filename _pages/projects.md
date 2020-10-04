@@ -24,7 +24,7 @@ Link to the project: -->
 
 <hr>
 
-##  A Prototype of a Case Based Reasoning System to determine resource allocation in COVID wards
+## Prototype - A Case Based Reasoning System to determine resource allocation in COVID wards
 _June '20_
 <br>
 
