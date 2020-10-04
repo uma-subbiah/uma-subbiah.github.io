@@ -12,7 +12,7 @@ I maintain a portfolio of all the computer science work I do [here](https://theg
 <br>
 I've selected the most important projects and listed them below: -->
 
-<hr>
+<!-- <hr>
 
 ##  using Tensorflow.js
 _September '20_
@@ -20,7 +20,7 @@ _September '20_
 
 In July 2020, I passed the Tensorflow Developer Certificate program. This exciting exam (and the preparatory course) left me hungry for more. I've been curious about the use of Tensorflow for different platforms, and on the journey to satisfy this curiousity, I've been exploring Tensorflow.js.
 
-Link to the project:
+Link to the project: -->
 
 <hr>
 

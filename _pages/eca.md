@@ -15,6 +15,6 @@ redirect_from:
 
 - I am an avid traveller and enjoy painting and cooking.
 
-- I am always excited to take up responsibility and organise technical events. In University, I served as the Event Manager for ML Marksman at the techfest Anokha (Feb ‘19), organised and lead 'Abraca~data' – a deep learning workshop (Dec '18). I was also the evaluator & volunteer for ML Marksman - a competition, at Anokha (Feb '18)
+- I am always excited to take up responsibility to organise technical events. During my undergrad, I served as the Event Manager for ML Marksman at the techfest Anokha (Feb ‘19), organised and lead 'Abraca~data' – a deep learning workshop (Dec '18). I was also the evaluator & volunteer for ML Marksman - a competition, at Anokha (Feb '18)
 
 - In school, I was the Student Editor of the Editorial Board (2013-14), the Head Girl (2012-13), the Vice Captain of one of the school houses (2011-12) and Project Coordinator (2012)
