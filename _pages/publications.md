@@ -13,7 +13,7 @@ redirect_from:
 <hr>
 
 ## A Machine Learning Model to Improve Identification of Drug-induced Abnormalities in Cardiac Repolarisation
-  _Oct, Nov '21, SPS, Cardiac Physiome_
+  _Oct & Nov '21; Safety Pharmacology Society Annual Meeting & Cardiac Physiome_
   <br>
  **Authors: Uma Subbiah, Dr. Blanca Rodriguez, Dr. Elisa Passini**
  <br>
