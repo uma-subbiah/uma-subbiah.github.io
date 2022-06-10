@@ -24,6 +24,20 @@ Link to the project: -->
 
 <hr>
 
+## Automated Classification of Automated Classification of Cardiac Action Potential Phenotypes for Prediction of Drug-Induced Pro-Arrhythmic Risk
+_Apr '21 - Oct '21_
+<br>
+
+I worked on my Master's thesis in the Computational Cardiovascular Science group, Dept. of Computer Science, University of Oxford.
+
+The research conducted involves the use of machine learning techniques to enhance cardiac drug safety.
+
+Our contribution to the field has been selected for presentation at the 2021 Safety Pharmacology Society's (SPS) Virtual Annual Meeting (Oct 2021) and the 2021 Cardiac Physiome Meeting (Nov 2021).
+
+Our accepted abstract was awarded the 2021 SPS Student Award. We also won the 1st place in the SPS Junior Investigator Poster Contest in October 2021.
+
+<hr>
+
 ## Prototype - A Case Based Reasoning System to determine resource allocation in COVID wards
 _June '20_
 <br>
