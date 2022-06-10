@@ -23,7 +23,7 @@ translational and negligible rotational error from within 25cm of the dock.
 ## Lead, Developer Student Club by Google Developers
   _Jan '19 - Jul '20_
   <br>
- **San Francisco Bay Area, California**
+ **India**
  <br>
 - Conducted over 7 workshops & hackathons; trained over 300 students on campus; increased student participation to 3-digit registrations. 
 - Invited (and sponsored) to the India DSC Summit by Google Developers at Goa, India
