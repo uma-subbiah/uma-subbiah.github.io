@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Uma Subbiah"
 title_separator          : "-"
 name                     : &name "Uma Subbiah"
-description              : &description "ML Enthusiast"
+description              : &description "Software Engineer | ML Enthusiast"
 url                      : https://uma-subbiah.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Uma Subbiah"
   avatar           : "profile.png"
-  bio              : "Pursuing a Master of Science in Computer Science at the University of Oxford | Machine Learning & Data Science Enthusiast | Passionate about Tech Communities"
-  location         : "Oxford, UK"
+  bio              : "Sofware Engineer | University of Oxford | Machine Learning & Data Science Enthusiast | Passionate about Tech Communities"
+  location         : "San Francisco Bay Area, CA, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=lr91SioAAAAJ&hl=en&oi=ao"
@@ -104,7 +104,7 @@ author:
   lastfm           :
   linkedin         : "uma-subbiah1"
   orcid            : #"http://orcid.org/yourorcidurl"
-  phone            : +44 7895617887
+  phone            : +1 650-789-0842
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
