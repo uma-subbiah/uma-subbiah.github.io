@@ -6,6 +6,25 @@ author_profile: true
 redirect_from:
   - /publications
 ---
+
+<hr>
+
+# Poster Presentations
+<hr>
+
+## A Machine Learning Model to Improve Identification of Drug-induced Abnormalities in Cardiac Repolarisation
+  _Oct, Nov '21, SPS, Cardiac Physiome_
+  <br>
+ **Authors: Uma Subbiah, Dr. Blanca Rodriguez, Dr. Elisa Passini**
+ <br>
+ At: Safety Pharmacology Society Annual Meeting, 2021; to be published in the Journal of Pharmacological and Toxicological Methods, 2022 ; Cardiac Physiome, 2021.
+ <br>
+ <br>
+Prizes won: 
+- 2021 SPS Student Award. 
+- 1st place in the 2021 SPS Junior Investigator Poster Contest.
+
+
 <hr>
 
 # Book chapter
