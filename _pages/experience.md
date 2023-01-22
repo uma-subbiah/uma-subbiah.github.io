@@ -8,8 +8,20 @@ redirect_from:
 ---
 <hr>
 
+## Software Engineer 1, McDonald's Corporation
+  _Sept'22 - Present_
+  <br>
+ **Chicago, Illinois**
+ <br>
+
+- Global Digital Engineering team member, responsible for the backend RESTful API implementation of the McDonald’s app for all global markets – currently on the team that handles validation, totalization, and fulfillment of orders
+- Investigation and fixes to accommodate > 10 different promotions, across various markets and countries
+- Written > 20 Postman collections that (along with GitHub actions) automate the verification of orders-related services; performed a multitude of user acceptance tests; increase code coverage with unit tests for 5 services
+- Responded to requirement changes – adding API endpoints, wrapping response types, investigating tax calculation implementation according to changes in local regulations (e.g., Italy), etc.
+
+
 ## Software Engineer, Matician, Inc
-  _Nov '21 - Present_
+  _Nov '21 - Sept '22_
   <br>
  **San Francisco Bay Area, California**
  <br>
