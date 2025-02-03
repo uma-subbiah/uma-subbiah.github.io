@@ -19,7 +19,7 @@ _Sept '23 - Sept '24_
 ## Safety Pharmacology Society
 _Oct '21 - Oct '22_
 <br>
-Won the 2021 Safety Pharmacology Society Student Award for my work on a software solution to predict cardiovascular drug toxicity early, and was awarded a complimentary SPS membership for 1 year
+- Won the 2021 Safety Pharmacology Society Student Award for my work on a software solution to predict cardiovascular drug toxicity early, and was awarded a complimentary SPS membership for 1 year
 <hr>
 
 
@@ -34,7 +34,7 @@ _Apr '21 - Nov '21_
 ## Member of the TensorFlow Certificate Network
 _Jul '20 - Jul '23_
 <br>
-I cleared the Google Developers Certified TensorFlow Developer exam and became a member of the TensorFlow Certificate Network
+- I cleared the Google Developers Certified TensorFlow Developer exam and became a member of the TensorFlow Certificate Network
 
 <hr>
 
@@ -43,11 +43,12 @@ I cleared the Google Developers Certified TensorFlow Developer exam and became a
 ### Lead Role for Amrita School of Engineering, Coimbatore
  _Jan '19 - Jul '20_
  <br>
- At the DSC, we aim to spread technology in the student community and increase participation of students from all backgrounds in tech.
+ 
+ - At the DSC, we aim to spread technology in the student community and increase participation of students from all backgrounds in tech.
 
- [Our website](https://sites.google.com/view/dsc-ase-cbe/)
+ - [Our website](https://sites.google.com/view/dsc-ase-cbe/)
 
- [Visit us on Facebook](https://www.facebook.com/dsc.ase.cbe/)
+ - [Visit us on Facebook](https://www.facebook.com/dsc.ase.cbe/)
 
 
 <hr>
