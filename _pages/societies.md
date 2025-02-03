@@ -19,7 +19,7 @@ _Sept '23 - Sept '24_
 ## Safety Pharmacology Society
 _Oct '21 - Oct '22_
 <br>
-Won the 2021 Safety Pharmacology Society Student Award and was awarded a complimentary SPS membership for 1 year
+Won the 2021 Safety Pharmacology Society Student Award for my work on a software solution to predict cardiovascular drug toxicity early, and was awarded a complimentary SPS membership for 1 year
 <hr>
 
 
