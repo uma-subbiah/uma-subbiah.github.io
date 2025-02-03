@@ -8,16 +8,26 @@ redirect_from:
 ---
 <hr>
 
-## Software Engineer 1, McDonald's Corporation
-  _Sept'22 - Present_
+## McDonald's Corporation
+### Software Engineer 2
+  _Oct 1st 2023 - Present_
+  <br>
+ **Chicago, Illinois**
+ <br>
+
+- **Pioneering Software Launches** – Spearheading software feature development, defect resolution, and deployments, ensuring seamless digital ordering launches in major and lite markets, while enhancing app performance and reliability.
+-	**Driving Global Expansion & Stability** – Delivered software to handle 30+ restaurant parameters, aligning digital and store calculations. Owned stakeholder communication, revamping 3rd-party order integration with our software, tax implementations digital order history unification, and built a processor for real-time kitchen order status tracking.
+-	**Chosen for High-Impact Initiatives** – Representing the ordering capability on a lead market adoption squad to accelerate software time-to-market & app launches in 4 major markets (in addition to the US) & ensure real-time production stability.
+
+### Software Engineer 1
+  _Sept 12th 2022 - Sept 30th 2023_
   <br>
  **Chicago, Illinois**
  <br>
 
 - Global Digital Engineering team member, responsible for the backend RESTful API implementation of the McDonald’s app for all global markets – currently on the team that handles validation, totalization, and fulfillment of orders
-- Investigation and fixes to accommodate > 10 different promotions, across various markets and countries
-- Written > 20 Postman collections that (along with GitHub actions) automate the verification of orders-related services; performed a multitude of user acceptance tests; increase code coverage with unit tests for 5 services
-- Responded to requirement changes – adding API endpoints, wrapping response types, investigating tax calculation implementation according to changes in local regulations (e.g., Italy), etc.
+- **Core Backend Engineer** – Developed and maintained RESTful API software for digital order validation, totalization, and fulfillment in the McDonald's app across global markets. Implemented backend fixes for 10+ promotions across multiple countries and added software implementation for 10+ offer types, optimizing for seamless upgrades.
+- **Enhancing Software Automation & Compliance** – Built 20+ Postman collections for automated software verification, improved test coverage across 5+ services, adapted existing code to account for tax regulations in various global markets.
 
 
 ## Software Engineer, Matician, Inc
