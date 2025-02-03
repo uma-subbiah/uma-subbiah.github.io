@@ -9,6 +9,21 @@ redirect_from:
 
 <hr>
 
+## AnitaB.org
+_Sept '23 - Sept '24_
+<br>
+- Selected to represent the McDonald’s Software Engineering Team at the Grace Hopper Celebration in Florida, in Sept 2023 and was awarded a year's AnitaB.org membership
+
+<hr>
+
+## Safety Pharmacology Society
+_Oct '21 - Oct '22_
+<br>
+Won the 2021 Safety Pharmacology Society Student Award and was awarded a complimentary SPS membership for 1 year
+<hr>
+
+
+
 ## Computational Cardiovascular Science group, University of Oxford
 _Apr '21 - Nov '21_
 <br>
