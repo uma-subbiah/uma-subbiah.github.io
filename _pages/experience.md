@@ -25,7 +25,6 @@ redirect_from:
  **Chicago, Illinois**
  <br>
 
-- Global Digital Engineering team member, responsible for the backend RESTful API implementation of the McDonald’s app for all global markets – currently on the team that handles validation, totalization, and fulfillment of orders
 - **Core Backend Engineer** – Developed and maintained RESTful API software for digital order validation, totalization, and fulfillment in the McDonald's app across global markets. Implemented backend fixes for 10+ promotions across multiple countries and added software implementation for 10+ offer types, optimizing for seamless upgrades.
 - **Enhancing Software Automation & Compliance** – Built 20+ Postman collections for automated software verification, improved test coverage across 5+ services, adapted existing code to account for tax regulations in various global markets.
 
