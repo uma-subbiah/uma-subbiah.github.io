@@ -48,7 +48,5 @@ _Jul '20 - Jul '23_
 
  - [Our website](https://sites.google.com/view/dsc-ase-cbe/)
 
- - [Visit us on Facebook](https://www.facebook.com/dsc.ase.cbe/)
-
 
 <hr>
