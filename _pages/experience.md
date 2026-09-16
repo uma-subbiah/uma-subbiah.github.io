@@ -9,8 +9,21 @@ redirect_from:
 <hr>
 
 ## McDonald's Corporation
+
+### Manager, Engineering Tech Lead
+  _Sept 1st 2025 - Present
+  <br>
+ **Chicago, Illinois**
+ <br>
+
+- **Leading Technical & People Excellence**: Leading 6 engineers while driving architecture, design reviews, technical risk management, production operations. Fostering continuous improvement and advocating for the responsible use of emerging AI engineering tools to enhance productivity, innovation, and engineering quality.
+- **Driving Global Scale & Reliability**: Own the end-to-end delivery of C#/.NET backend services supporting 55+ markets, leveraging RESTful APIs, microservices architecture, NoSQL DBs, Kafka to deliver reliable, scalable solutions.
+- **Delivering High-Impact Global Launches**: Led 6 major launches across global markets, partnering with product, engineering, legal, and local teams on tax, regulatory, compliance, production readiness, and operational stability.
+
+
+
 ### Software Engineer 2
-  _Oct 1st 2023 - Present_
+  _Oct 1st 2023 - Aug 31st 2025
   <br>
  **Chicago, Illinois**
  <br>

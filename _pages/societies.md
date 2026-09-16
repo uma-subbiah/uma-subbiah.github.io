@@ -10,6 +10,11 @@ redirect_from:
 <hr>
 
 ## AnitaB.org
+_Nov '25_
+<br>
+- Selected to represent the McDonald’s Software Engineering Team at the Grace Hopper Celebration in Chicago, in November 2025
+
+## AnitaB.org
 _Sept '23 - Sept '24_
 <br>
 - Selected to represent the McDonald’s Software Engineering Team at the Grace Hopper Celebration in Florida, in Sept 2023 and was awarded a year's AnitaB.org membership

@@ -7,7 +7,7 @@ redirect_from:
   - /eca
 ---
 
-- I enjoy poetry writing and maintain a blog of my poems at [https://thegoldenaurora.wordpress.com](https://thegoldenaurora.wordpress.com).
+<!-- - I enjoy poetry writing and maintain a blog of my poems at [https://thegoldenaurora.wordpress.com](https://thegoldenaurora.wordpress.com). -->
 
 <!-- I'm also passionate about spreading technology in the community and write technical articles, how-to's and interesting advances at [https://thegoldencode.wordpress.com](https://thegoldencode.wordpress.com). -->
 
