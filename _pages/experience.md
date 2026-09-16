@@ -11,7 +11,7 @@ redirect_from:
 ## McDonald's Corporation
 
 ### Manager, Engineering Tech Lead
-  _Sept 1st 2025 - Present
+  _Sept 1st 2025 - Present_
   <br>
  **Chicago, Illinois**
  <br>
@@ -23,7 +23,7 @@ redirect_from:
 
 
 ### Software Engineer 2
-  _Oct 1st 2023 - Aug 31st 2025
+  _Oct 1st 2023 - Aug 31st 2025_
   <br>
  **Chicago, Illinois**
  <br>

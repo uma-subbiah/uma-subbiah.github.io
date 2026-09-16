@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- I'm also passionate about spreading technology in the community and write technical articles, how-to's and interesting advances at [https://thegoldencode.wordpress.com](https://thegoldencode.wordpress.com). -->
 
-- I believe in giving back to the society, and have participated in multiple marathons and fundraisers for the Coimbatore Cancer Foundation.
+- I believe in giving back to the society, and have participated/volunteered in multiple marathons and fundraisers.
 
 - I am an avid traveller and enjoy painting and cooking.
 

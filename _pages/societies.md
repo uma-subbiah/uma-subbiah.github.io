@@ -49,9 +49,9 @@ _Jul '20 - Jul '23_
  _Jan '19 - Jul '20_
  <br>
  
- - At the DSC, we aim to spread technology in the student community and increase participation of students from all backgrounds in tech.
+ - At the DSC, we aim to pique interest in technology among the student community and increase participation of students from all backgrounds in tech.
 
- - [Our website](https://sites.google.com/view/dsc-ase-cbe/)
+ <!-- - [Our website](https://sites.google.com/view/dsc-ase-cbe/) -->
 
 
 <hr>

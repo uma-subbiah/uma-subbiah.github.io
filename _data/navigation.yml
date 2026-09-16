@@ -18,5 +18,5 @@ main:
   - title: "Societies & Memberships"
     url: https://uma-subbiah.github.io/societies/
 
-  - title: "Extracurricular Activities"
-    url: https://uma-subbiah.github.io/eca/
+  # - title: "Extracurricular Activities"
+  #   url: https://uma-subbiah.github.io/eca/
