@@ -15,6 +15,6 @@ I'm Uma Subbiah and I'm currently a Manager, Engineering Tech Lead on the Commer
 
 I hold a Master of Science in Computer Science from the University of Oxford, UK, where I graduated with Distinction. My masters thesis applied machine and deep learning algorithms to cardiovascular science & was applauded by the research community; I received 2 awards from international research bodies.
 
-Prior to that, I completed a Bachelor of Technology in Computer Science and Engineering degree, with a GPA of 9.91 / 10 , ranking first among 380 students in the department. I graduated with a first class degree and was awarded distinction for my research contributions.
+Prior to that, I completed a Bachelor of Technology in Computer Science and Engineering degree, with a GPA of 9.91 / 10 , ranking first among 380 students in the department. I graduated with a first class degree and was awarded distinction.
 
 I'm enthusiastic about high quality software, clean code, machine/deep learning and artificial intelligence. When I'm not working on research projects or dreaming about AI for the future, you'll find me traveling, painting, reading a good novel or predicting the end to a crime mystery series!   
